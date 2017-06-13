@@ -1,0 +1,5 @@
+@mixin icon($src, $width) {
+  width: $width;
+  height: $width;
+  // background: url($src) 0 0;
+}

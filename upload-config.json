@@ -1,0 +1,18 @@
+{
+  "src_dir"            :   "dist",
+  "access_key"         :   "aaWVhG-fbhHx6zLtrtSUE-PUpBx3_jStJAEEUpKC",
+  "secret_key"         :   "I6WzJ28g-eXeoH6DYxPTb8khAchf4jLtIzPg3cYT",
+  "bucket"             :   "kaiyuan",
+  "key_prefix"         :   "",
+  "overwrite"          :   true,
+  "check_exists"       :   true,
+  "check_hash"         :   true,
+  "check_size"         :   true,
+  "skip_file_prefixes" :   ".git,bin",
+  "skip_fixed_strings" :   "",
+  "skip_path_prefixes" :   "",
+  "skip_suffixes"      :   ".DS_Store",
+  "log_file"           :   "upload.log",
+  "log_level"          :   "info",
+  "rescan_local"       :   true
+}

@@ -1,0 +1,10 @@
+@import "setting";
+@import "icon";
+
+#back {
+  @include icon("back.png", $gallery-icon-width);
+}
+
+#g-exit {
+  @include icon("cancel.png", $gallery-icon-width);
+}
